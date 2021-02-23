@@ -1,0 +1,32 @@
+/*FONDO DE LA HOJA*/
+.charsheet {
+	background-color: #ddd;
+	min-width: 800px;
+  background-image: url("hoja_1.jpg");
+  background-repeat: no-repeat;
+}
+.sheet-flex-container {
+  /*background-color:rgb(136, 244, 227);*/
+  display: flex;
+  flex-direction: column;
+}
+.sheet-nombrepj {
+  width:190px;
+  margin-top: 7px;
+  margin-left: 230px;
+}
+.sheet-especie {
+  width:200px;
+  margin-top: 14px;
+  margin-left: 70px;
+}
+.sheet-profesion {
+  width:340px;
+  margin-top: 13px;
+  margin-left: 80px
+}
+.sheet-especializacion {
+  width:530px;
+  margin-top: 13px;
+  margin-left: 110px;
+}
